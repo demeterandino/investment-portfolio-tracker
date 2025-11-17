@@ -1,4 +1,4 @@
-# Product Requirement Document: Automated Portfolio Rebalancing
+# Product Requirement Document: Automated Portfolio Rebalancing Feature
 ### Investment Portfolio Tracker – Automation Engine
 
 
