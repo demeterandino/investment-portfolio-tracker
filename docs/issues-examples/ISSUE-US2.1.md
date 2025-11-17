@@ -16,11 +16,10 @@ Without grouping, the alert center becomes cluttered and difficult to prioritize
 
 
 ## Acceptance Criteria 
-Given the user has multiple alerts
-When the system groups them
-Then Critical alerts must be displayed first
-And Warning alerts next
-And Info alerts last
+Given alerts are generated
+When multiple alerts occur within the same theme
+Then they must be grouped
+And prioritized by importance.
 
 
 ## Scenarios
