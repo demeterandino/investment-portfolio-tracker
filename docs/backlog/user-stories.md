@@ -36,7 +36,8 @@ As an investor, I want the system to detect when my allocation drifts too far so
 As an investor, I want actionable rebalance suggestions so I can easily correct issues.
 
 ### US 3.3
-As an investor, I want to see the simulated impact so I know how my portfolio will change.
+As an investor, I want to see the simulated impact so I know how my portfolio will change. **Linked Issue:**  
+→ [ISSUE-US3.3: Auto Categorization](docs/issues-examples/ISSUE-US3.3.md)
 
 
 ## EPIC 4 — Portfolio Analytics & Dashboard
