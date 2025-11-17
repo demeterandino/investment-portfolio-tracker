@@ -1,4 +1,4 @@
-# Product Requirement Document: Automated Asset Categorization
+# Product Requirement Document: Automated Asset Categorization Feature
 ### Investment Portfolio Tracker
 
 
