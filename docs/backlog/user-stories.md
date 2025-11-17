@@ -7,7 +7,8 @@
 As a user, I want to import my portfolio via CSV so that I can quickly set up the system.
 
 ### US 1.2
-As a user, I want the system to auto-categorize my assets so that I don’t waste time classifying them manually.
+As a user, I want the system to auto-categorize my assets so that I don’t waste time classifying them manually. **Linked Issue:**  
+→ [ISSUE-US1.2: Auto Categorization](docs/issues-examples/ISSUE-US1.2.md)
 
 ### US 1.3
 As a user, I want low-confidence classifications to be flagged so that I can review and correct them.
