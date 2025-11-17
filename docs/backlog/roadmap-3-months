@@ -1,0 +1,40 @@
+# 3-Month Roadmap
+
+
+## **Month 1 — Foundations**
+### Goals:
+- Data ingestion pipeline
+- Auto-categorization MVP
+- Dashboard baseline
+
+### Deliverables:
+- CSV/API import
+- Categorization engine (rule-based)
+- Portfolio allocation view
+- Initial risk scoring
+
+
+## **Month 2 — Automation Engine**
+### Goals:
+- Smart alerts system
+- Drift detection
+- Alert prioritization logic
+
+### Deliverables:
+- Alert bundles
+- “Why this matters” explanations
+- Alert settings page
+- Notification system
+  
+
+## **Month 3 — Rebalancing & Reports**
+### Goals:
+- Rebalancing suggestions
+- Monthly automation report
+- Impact simulation
+
+### Deliverables:
+- Rebalance engine MVP
+- Before/After simulation card
+- Stability score tracking
+- Monthly PDF report
