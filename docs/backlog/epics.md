@@ -13,6 +13,8 @@ Enable users to quickly import and correctly categorize their entire portfolio w
 - Manual overrides
 - Error handling and validation
 
+**Linked Issue:**  
+→ [auto-categorization.md](https://github.com/demeterandino/investment-portfolio-tracker/blob/main/docs/prds-features/auto-categorization.md)
 
 ## EPIC 2 — Auto Alerts Engine
 Deliver highly relevant alerts about portfolio drift, volatility, price shifts, and macro events—ranked by importance.
