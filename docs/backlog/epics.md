@@ -24,6 +24,8 @@ Deliver highly relevant alerts about portfolio drift, volatility, price shifts, 
 - “Why this matters” explanations
 - User alert settings
 
+**Linked Issue:**  
+→ [auto-alerts.md](https://github.com/demeterandino/investment-portfolio-tracker/blob/main/docs/prds-features/auto-alerts.md)
 
 ## EPIC 3 — Automated Rebalancing Engine
 Automatically detect portfolio drift and propose suggested trades with clear, transparent logic.
