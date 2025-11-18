@@ -18,7 +18,7 @@ As a user, I want low-confidence classifications to be flagged so that I can rev
 
 ### US 2.1
 As a user, I want alerts grouped by importance so I’m not overwhelmed. **Linked Issue:**  
-→ [ISSUE-US2.1: Auto Categorization](docs/issues-examples/ISSUE-US2.1.md)
+→ [ISSUE-US2.1.md](https://github.com/demeterandino/investment-portfolio-tracker/blob/main/docs/issues-examples/ISSUE-US2.1.md)
 
 ### US 2.2
 As a user, I want alerts to include a simple explanation so I understand why it matters.
