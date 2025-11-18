@@ -37,7 +37,7 @@ As an investor, I want actionable rebalance suggestions so I can easily correct 
 
 ### US 3.3
 As an investor, I want to see the simulated impact so I know how my portfolio will change. **Linked Issue:**  
-→ [ISSUE-US3.3: Auto Categorization](docs/issues-examples/ISSUE-US3.3.md)
+→ [ISSUE-US3.3.md](https://github.com/demeterandino/investment-portfolio-tracker/blob/main/docs/issues-examples/ISSUE-US3.3.md)
 
 
 ## EPIC 4 — Portfolio Analytics & Dashboard
