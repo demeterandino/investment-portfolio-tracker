@@ -39,6 +39,9 @@ Automatically detect portfolio drift and propose suggested trades with clear, tr
 - User action workflows
 - Rebalance logs
 
+**Linked Issue:**  
+→ [auto-rebalance.md](https://github.com/demeterandino/investment-portfolio-tracker/blob/main/docs/prds-features/auto-rebalance.md)
+
 ## EPIC 4 — Portfolio Analytics & Dashboard
 Provide a clear and meaningful overview of portfolio allocation, risk, diversification, and trends.
 
